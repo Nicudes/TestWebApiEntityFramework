@@ -1,0 +1,14 @@
+C:\Users\Huy\source\repos\PragueDbTest\CustomerDataAccess\bin\Debug\Customer.mdf
+C:\Users\Huy\source\repos\PragueDbTest\CustomerDataAccess\bin\Debug\Customer_log.ldf
+C:\Users\Huy\source\repos\PragueDbTest\CustomerDataAccess\bin\Debug\CustomerDataAccess.dll.config
+C:\Users\Huy\source\repos\PragueDbTest\CustomerDataAccess\bin\Debug\CustomerDataAccess.dll
+C:\Users\Huy\source\repos\PragueDbTest\CustomerDataAccess\bin\Debug\CustomerDataAccess.pdb
+C:\Users\Huy\source\repos\PragueDbTest\CustomerDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Huy\source\repos\PragueDbTest\CustomerDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Huy\source\repos\PragueDbTest\CustomerDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Huy\source\repos\PragueDbTest\CustomerDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Huy\source\repos\PragueDbTest\CustomerDataAccess\obj\Debug\CustomerDataAccess.csprojAssemblyReference.cache
+C:\Users\Huy\source\repos\PragueDbTest\CustomerDataAccess\obj\Debug\CustomerDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Huy\source\repos\PragueDbTest\CustomerDataAccess\obj\Debug\CustomerDataAccess.csproj.CopyComplete
+C:\Users\Huy\source\repos\PragueDbTest\CustomerDataAccess\obj\Debug\CustomerDataAccess.dll
+C:\Users\Huy\source\repos\PragueDbTest\CustomerDataAccess\obj\Debug\CustomerDataAccess.pdb
