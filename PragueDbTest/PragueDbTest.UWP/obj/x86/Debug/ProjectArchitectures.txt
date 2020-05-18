@@ -1,1 +1,0 @@
-C:\Users\Huy\source\repos\PragueDbTest\PragueDbTest\PragueDbTest.UWP\PragueDbTest.UWP.csproj;x86
